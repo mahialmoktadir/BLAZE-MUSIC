@@ -1,0 +1,6 @@
+{
+  "name": "BLAZE MUSIC — Premium 24/7 Discord Music Bot & Platform",
+  "description": "Production-grade 24/7 Discord Music Bot & Management Platform for XNIPER Community with live web dashboard, multi-source playback engine, radio autoplay, and premium subscription management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
